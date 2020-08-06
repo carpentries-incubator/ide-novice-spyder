@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
+title: "Variable Explorer"
 teaching: 10
-exercises: 0
+exercises: 10
 questions:
 - "Key question (FIXME)"
 objectives:

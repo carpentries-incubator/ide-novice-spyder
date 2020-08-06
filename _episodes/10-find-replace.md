@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-teaching: 10
-exercises: 0
+title: "Find and Replace"
+teaching: 5
+exercises: 5
 questions:
 - "Key question (FIXME)"
 objectives:

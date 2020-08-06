@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-teaching: 10
-exercises: 0
+title: "Debugging"
+teaching: 20
+exercises: 20
 questions:
 - "Key question (FIXME)"
 objectives:

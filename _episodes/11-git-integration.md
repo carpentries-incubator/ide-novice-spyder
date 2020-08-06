@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-teaching: 10
-exercises: 0
+title: "Git integration"
+teaching: 15
+exercises: 15
 questions:
 - "Key question (FIXME)"
 objectives:
