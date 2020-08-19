@@ -26,9 +26,9 @@ Is supported by two tools:
 
 ## The debugging procedure
 
-1. The debugging is started by activating the debugger. It can be made either through the *Debug File* toolbar button, the *Debug>Debug* menu option, the `[CTRL+F5]` key or console's `debugfile` function.
+1. The debugging is started by activating the debugger. It can be made either through the *Debug File* toolbar button, the `Debug ‣ Debug` menu option, the `[CTRL+F5]` key or console's `debugfile` function.
 
-2. Then, you advance through the code, the basic operation being to advance line by line, using the `n` (next) command from *pdb* in the terminal, or the *Run current line* button in the toolbar, or the *Debug>Step* menu option, or the `[CTRL+F10]` key.
+2. Then, you advance through the code, the basic operation being to advance line by line, using the `n` (next) command from *pdb* in the terminal, or the *Run current line* button in the toolbar, or the `Debug ‣ Step` menu option, or the `[CTRL+F10]` key.
 
 3. Sometimes, you know that one part of the code works well, so you want to quickly advance to another part of the code. To do this you set a breakpoint and then advance using the *advance to next breakpoint* functions in the toolbar, the debug menu, or the `[CTRL+F12]` key.
 
