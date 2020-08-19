@@ -5,9 +5,9 @@ exercises: 5
 questions:
 - "What are the expected features in an IDE editor?"
 objectives:
-- "Understand the purpose of the features of a code editor."
+- "Understand the purpose of the features of a code editor"
 keypoints:
-- "A code editor fundamentally reduces your cognitive load."
+- "A code editor fundamentally reduces your cognitive load"
 - "There is no need to use an IDE. It is just much harder work not to. (David Arno, Stackoverflow)"
 ---
 
