@@ -1,7 +1,7 @@
 ---
 title: "Editor"
-teaching: 10
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - "What are the expected features in an IDE editor?"
 objectives:
