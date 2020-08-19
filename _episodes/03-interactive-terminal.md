@@ -5,11 +5,11 @@ exercises: 5
 questions:
 - "What does the terminal/console do for me?"
 objectives:
-- "To understand the usefulness of the interactive terminal."
-- "To discern between the functionality of the editor and the interactive terminal."
+- "To understand the usefulness of the interactive terminal"
+- "To discern between the functionality of the editor and the interactive terminal"
 keypoints:
-- "The interactive terminal is a special feature of dynamic or interpreted languages."
-- "The interactive terminal allows us to play and test ideas before writing "definitive" code in the editor."
+- "The interactive terminal is a special feature of dynamic or interpreted languages"
+- "The interactive terminal allows us to play and test ideas before writing "definitive" code in the editor"
 ---
 
 The Interactive Terminal (in Spyder, the IPython Console) allows you to execute commands and interact with data inside any number of IPython interpreters.
