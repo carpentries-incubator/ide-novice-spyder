@@ -3,9 +3,11 @@ title: "Profiling"
 teaching: 5
 exercises: 5
 questions:
-- "Key question (FIXME)"
+- "What is the point of profiling our code and how do we do it?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand the need for profiling"
+- "To know the basic commands for profiling"
+- "To know how to interpret the profiling results"
 keypoints:
 - "Skills of applying good practices in our code and improving performance require specific training and experience."
 ---
