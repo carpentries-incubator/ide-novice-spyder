@@ -18,5 +18,13 @@ Select the files in the current directory and check the available options by cli
 
 Try to copy and paste the current file, rename the copy, create a new file.
 
+## Let's convert our code to functions
+
+Separate your code making two functions, the first one generates a random Bingo card.
+
+After that, convert the remaining code in a second function that displays the Bingo card on the terminal.
+
+Use these functions to write a program that displays a random Bingo card. Ensure that the main program only runs when the file containing your solution has not been imported into another program.
+
 {% include links.md %}
 
