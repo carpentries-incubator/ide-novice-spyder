@@ -37,8 +37,6 @@ The number of all possible Bingo cards with these standard features is P(15,5) Ã
 
 We start making a program that generate a random Bingo card.
 
-Let use a dictionary whose keys will be the letters B, I, N, G and O. The values will be the lists of five numbers that appear under each letter.
-
 After that, we will write a code that displays the generated Bingo card on the terminal.
 
 {% include links.md %}
